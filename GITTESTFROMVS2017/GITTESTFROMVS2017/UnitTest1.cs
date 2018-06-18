@@ -9,7 +9,7 @@ namespace GITTESTFROMVS2017
         [TestMethod]
         public void TestMethod1()
         {
-            //TEST
+            //TEST AGAIN FROM VSTS
         }
     }
 }
